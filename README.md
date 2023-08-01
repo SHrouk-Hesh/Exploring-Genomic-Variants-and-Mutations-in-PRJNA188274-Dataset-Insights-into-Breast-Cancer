@@ -1,0 +1,2 @@
+# Exploring-Genomic-Variants-and-Mutations-in-PRJNA188274-Dataset-Insights-into-Breast-Cancer
+Welcome to CancerGenoProbe, a pioneering study with the primary objective of determining the variants present in the genomic single data PRJNA188274 on Homo sapiens chromosome 22. Our research serves as a crucial resource for researchers investigating the genetics of breast cancer, offering a comprehensive workflow for variant analysis.
